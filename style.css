@@ -1,0 +1,14 @@
+#center{
+    background-color: black;
+}
+#myCanvas{
+    background-color: aliceblue ;
+    margin: 50px;
+    border-color: blueviolet;
+    border-width: 5px;
+
+}
+.input{
+    margin-bottom:10px;
+    margin-left:15px;
+}
